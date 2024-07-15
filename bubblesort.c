@@ -1,5 +1,5 @@
 #include <stdio.h>  
-  
+  //bubble sort in c program//
 void bubble_sort(int arr[], int n) {  
   int i, j;  
   for (i = 0; i < n - 1; i++) {  
